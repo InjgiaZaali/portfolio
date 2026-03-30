@@ -52,6 +52,23 @@
 * Continuously improving skills through hands-on projects
 
 ---
+## 🏅 Certifications & Achievements
+
+* **AWS Academy Certificate**
+
+  * Completed cloud fundamentals and gained understanding of AWS services and architecture
+  * - **AWS Academy Certificate** ([View Certificate]([(https://www.credly.com/badges/bfc99588-746c-4ebf-9593-665d01b951ee/linked_in_profile)]))
+
+* **Python Course Certificate**
+
+  * Strengthened programming skills and problem-solving using Python
+
+* 🥈 **2nd Place – Cybersecurity Seasonal School Lab (Team Project)**
+
+  * Collaborated in a team to solve practical cybersecurity challenges
+  * Applied hands-on skills in analysis, problem-solving, and security concepts
+
+---
 
 ## 🎯 Goals
 
