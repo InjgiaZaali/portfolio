@@ -57,8 +57,7 @@
 * **AWS Academy Certificate**
 
   * Completed cloud fundamentals and gained understanding of AWS services and architecture
-  * - **AWS Academy Certificate** ([View Certificate]([(https://www.credly.com/badges/bfc99588-746c-4ebf-9593-665d01b951ee/linked_in_profile)]))
-
+- **AWS Academy Certificate** ([View Certificate](https://www.credly.com/badges/bfc99588-746c-4ebf-9593-665d01b951ee/linked_in_profile))
 * **Python Course Certificate**
 
   * Strengthened programming skills and problem-solving using Python
